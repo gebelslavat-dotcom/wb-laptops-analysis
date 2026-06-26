@@ -47,6 +47,7 @@
 | `top_segment.png` | Конкурентность сегментов |
 | `supplier_dominance.png` | Топ поставщиков |
 
+
 ## Dashboard
 [Fastboard Dashboard](https://demo.fastboard.online/public/f1de1360-b42a-46c8-ae9c-8454fcaa0ff0/board/dc056874-305d-11ee-8c70-04d4c47aef75)
 
